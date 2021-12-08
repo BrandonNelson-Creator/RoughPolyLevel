@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/COLOUR.unity
+    guid: 6159ef2b204d23c4a8f8e7e9ce3afff3
+  - enabled: 1
+    path: Assets/Scenes/CargoBay.unity
+    guid: 8f590968f3d862149b68c6a64cac7c5a
+  - enabled: 1
+    path: Assets/Scenes/Bridge.unity
+    guid: 924e18647da53954da59fef217081fd3
   m_configObjects: {}
